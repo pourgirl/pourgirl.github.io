@@ -1,7 +1,12 @@
 body {
-		background-color: thistle;
+		background-color: FloralWhite;
 }
 
-h1, p {
-	color:WhiteSmoke;
+h1 {
+	color: Maroon;
+}
+
+p {
+	background-color: Maroon;
+	color: FloralWhite;
 }
