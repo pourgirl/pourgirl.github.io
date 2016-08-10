@@ -8,7 +8,8 @@ h1 {
 }
 
 p {
-	color: #990033;
+	background-color: #990033
+	color: #ffffff;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
