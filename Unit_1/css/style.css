@@ -1,5 +1,5 @@
 body {
-		background-color: GhostWhite;
+		background-color: WhiteSmoke;
 }
 
 h1 {
@@ -11,6 +11,6 @@ h4 {
 }
 
 p {
-	background-color: Maroon;
-	color: GhostWhite;
+	background-color: DarkRed;
+	color: WhiteSmoke;
 }
