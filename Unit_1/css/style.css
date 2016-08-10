@@ -3,13 +3,12 @@ body {
 }
 
 h1 {
-	color:#ffffff;
-	background-color: #990033;
+	color:#990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
 p {
-	float: right;
+	float: left;
 	margin: 0 0 10px 10px;
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
