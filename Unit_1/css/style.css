@@ -9,12 +9,17 @@ h1 {
 	padding:0;
 }
 
-p {
+h6 {
 	text-indent: 10px;
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 	margin:0;
 	padding-bottom:200px;
+}
+
+p{
+	color:#b2b2b2;
+	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
 ul {
