@@ -1,12 +1,16 @@
 body {
-		background-color: FloralWhite;
+		background-color: GhostWhite;
 }
 
 h1 {
 	color: Maroon;
 }
 
+h2 {
+	color: Maroon;
+}
+
 p {
 	background-color: Maroon;
-	color: FloralWhite;
+	color: GhostWhite;
 }
