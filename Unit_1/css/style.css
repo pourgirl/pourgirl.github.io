@@ -5,10 +5,12 @@ body {
 h1 {
 	color:#990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
+	margin:0;
+	padding:0;
 }
 
 p {
-	text-indent: 100px;
+	text-indent: 10px;
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
