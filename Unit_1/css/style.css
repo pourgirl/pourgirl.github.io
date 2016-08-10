@@ -6,12 +6,12 @@ h1 {
 	color: DarkRed;
 }
 
-h4 {
+p {
 	background-color:DarkRed;
 	color: WhiteSmoke;
 }
 
-p,ul {
+h4,ul {
 	color: DarkRed;
 }
 
