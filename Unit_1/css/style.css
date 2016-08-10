@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+	padding:1;
 	color:#990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
@@ -14,8 +15,8 @@ p {
 }
 
 ul {
-	padding:5;
-	margin:5;
+	padding:1;
+	margin:1;
 	color: #b2b2b2;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
