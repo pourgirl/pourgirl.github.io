@@ -8,6 +8,7 @@ h1 {
 }
 
 p {
+	text-indent: 50px;
 	background-color: #990033;
 	color: #ffffff;
 	font-family: "Open Sans Condensed", Georgia, Serif;
