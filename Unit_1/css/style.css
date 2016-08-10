@@ -14,12 +14,12 @@ p {
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 	margin:0;
-	padding:50;
+	padding:0;
 }
 
 ul {
-	padding:0;
 	margin:0;
+	padding:50px;
 	color: #b2b2b2;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
