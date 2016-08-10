@@ -3,18 +3,20 @@ body {
 }
 
 h1 {
-	color: DarkRed;
+	color:#ffffff;
+	background-color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
 p {
-	background-color:DarkRed;
-	color: WhiteSmoke;
+	float: right;
+	margin: 0 0 10px 10px;
+	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
-h4,ul {
-	color: DarkRed;
+ul {
+	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 }
 
