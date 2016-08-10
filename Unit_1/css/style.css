@@ -13,10 +13,12 @@ p {
 	text-indent: 10px;
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
+	margin:0;
+	padding:0;
 }
 
 ul {
-	padding:0;
+	padding:50;
 	margin:0;
 	color: #b2b2b2;
 	font-family: "Open Sans Condensed", Georgia, Serif;
