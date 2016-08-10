@@ -10,9 +10,11 @@ h1 {
 p {
 	background-color:DarkRed;
 	color: WhiteSmoke;
+	font-family: "Open Sans Condensed", Goergia, Serif
 }
 
 h4,ul {
 	color: DarkRed;
+	font-family: "Open Sans Condensed", Goergia, Serif
 }
 
