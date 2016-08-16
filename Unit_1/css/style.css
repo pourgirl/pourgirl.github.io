@@ -9,7 +9,8 @@ h1 {
 	padding:0;
 }
 
-h6 {
+h2{
+	font-size:75%;
 	text-indent: 10px;
 	color: #990033;
 	font-family: "Open Sans Condensed", Georgia, Serif;
@@ -25,6 +26,7 @@ p{
 }
 
 ul {
+	list-style-type: none;
 	color: #b2b2b2;
 	font-family: "Open Sans Condensed", Georgia, Serif;
 	font-style: italic;
