@@ -1,0 +1,48 @@
+@import 'https://fonts.googleapis.com/css?family=Dancing+Script';
+
+body {
+	background: url('https://static.pexels.com/photos/66636/pexels-photo-66636.jpeg');
+	background-size: cover;
+	color:#AA3939;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	font-family: 'Dancing Script', cursive;
+	font-size: 36px;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+
+
+nav {
+	color: gray;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px 10px 50px 10px;
+}
+
+span{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.picture{
+	text-align: center;
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+.wine{
+	text-align: center;
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+footer{
+	text-align: center;
+	padding-top:300px;
+}
