@@ -1,0 +1,71 @@
+@import 'https://fonts.googleapis.com/css?family=Dancing+Script';
+
+body {
+	background: white;
+	background-size: cover;
+	color:#AA3939;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	font-family: 'Dancing Script', cursive;
+	font-size: 48px;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+
+
+nav {
+	color: gray;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px 10px 50px 10px;
+}
+
+span{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+section{
+	color: black;
+	font-style: bold;
+	font-size: 3em;
+
+}
+
+#wine{
+	text-align: center;
+	border: 1px gray solid;
+	background-image: url('https://static.pexels.com/photos/3540/restaurant-alcohol-bar-drinks-medium.jpg');
+	background-size: cover;
+    padding: 180px 10px;
+    float: right;
+    width: 48%;
+}
+
+#tasting{
+	text-align: center;
+	border: 1px gray solid;
+	background-image: url('https://static.pexels.com/photos/2761/food-drink-kitchen-cutting-board-medium.jpg');
+	background-size: cover;
+    padding: 180px 10px;
+    float: left;
+    width: 48%;
+}
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer{
+	text-align: center;
+	padding:30px;
+}
