@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Bungee+Shade|Monoton';
 
 body {
-	background: #ffffff;
+	background: #f1f1f1;
 	background-size: cover;
 	color:#AA3939;
 	font-family: 'Open Sans', sans-serif;
@@ -39,7 +39,7 @@ section{
 
 #wine{
 	text-align: center;
-	border: 1px #f2f2f2 solid;
+	border: 1px lightgray solid;
 	background-image: url('https://static.pexels.com/photos/3540/restaurant-alcohol-bar-drinks-medium.jpg');
 	background-size: cover;
     padding: 150px 10px;
@@ -49,7 +49,7 @@ section{
 
 #tasting{
 	text-align: center;
-	border: 1px #f2f2f2 solid;
+	border: 1px lightgray solid;
 	background-image: url('https://static.pexels.com/photos/2761/food-drink-kitchen-cutting-board-medium.jpg');
 	background-size: cover;
     padding: 150px 10px;
