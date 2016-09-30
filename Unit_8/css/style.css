@@ -1,0 +1,89 @@
+@import 'https://fonts.googleapis.com/css?family=Bungee+Shade|Monoton';
+
+body {
+	background: #f1f1f1;
+	background-size: cover;
+	color:#AA3939;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background: #4b9b9b;
+	color: #ffffff;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 54px;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+
+nav {
+	color: #000000;
+	font-size: 36px;
+	text-align: center;
+	padding: 30px 10px 30px 10px;
+}
+
+span{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+section{
+	font-weight: bold;
+	font-size: 3em;
+
+}
+
+#wine{
+	text-align: center;
+	border: 1px lightgray solid;
+	background-image: url('https://static.pexels.com/photos/3540/restaurant-alcohol-bar-drinks-medium.jpg');
+	background-size: cover;
+    padding: 150px 10px;
+    float: right;
+    width: 48%;
+}
+
+#tasting{
+	text-align: center;
+	border: 1px lightgray solid;
+	background-image: url('https://static.pexels.com/photos/2761/food-drink-kitchen-cutting-board-medium.jpg');
+	background-size: cover;
+    padding: 150px 10px;
+    float: left;
+    width: 48%;
+}
+
+article: hover {
+	opacity:0.5;;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer{
+	color:#000000;
+	text-align: center;
+	padding:30px;
+}
+
+@media only screen and (max-width: 1110px){
+	#tasting, #wine{
+		float:none;
+		width:100%;
+		height:2em;
+		padding:0;
+	}
+}
+
+
