@@ -19,6 +19,7 @@ header {
 }
 
 h3 {
+	color:#878e8e;
 	font-style: italic;
 	font-size: 20px;
 	text-align: center;
@@ -66,7 +67,6 @@ span{
 }
 
 #winedes{
-	background: #ffffff;
 	text-align: center;
 	list-style: none;
 	color:#878e8e;
@@ -76,7 +76,6 @@ span{
 }
 
 #tastingdes{
-	background: #ffffff;
 	text-align: center;
 	list-style: none;
 	color:#878e8e;
@@ -99,8 +98,8 @@ article:hover {
 }
 
 footer{
-	color:#000000;
 	text-align: right;
+	color:#000000;
 	padding:30px 5px;
 }
 
